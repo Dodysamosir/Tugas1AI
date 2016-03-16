@@ -18,8 +18,35 @@ Setuju Karena Mesin dan kecerdasan dapat singkronkan karena kecerdasan dapat di 
 Mungkin saja karena dengan semakin cerdas komputer akan bisa memiliki pemikiran seperti manusia.
 3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing ?
 Halangan adalah jenis komputer dan keterbatasan untuk menjadikan komputer seperti pemikiran manusia.
+
 Implementasi Kecerdasan Buatan
 -	Pengolahan bahasa Alami
 Kercerdasan dalam pengolahan bahasa natural antara bahasa manusia dapat di implementasikan ke dalam mesin.
 
 Contoh : - Aplikasi ChatBox
+
+
+-	Knowledge Representation 
+Kercerdasan buatan yang dapat diperoleh ke dalam suatu skema/diagram tertentu sehingga dapat diketahui relasi antara suatu pengetahuan dengan pengetahuan yang lain dapat dipakai untuk menguji kebenaran penalarannya.
+
+Contoh : - Aplikasi Test Kebohongan
+
+-	Automated Reasoning
+Kercerdasan buatan yang dimana untuk memahami berbagai aspek dari sebuah ospek penalaran.
+
+Contoh : - Aplikasi pembuat Program
+
+-	Machine Learning
+Merupakan kercerdasan yang dimana mesin atau kecerdasan yang dapat belajar sendiri.
+
+Contoh : - Robot Memasak
+
+-	Computer Vision
+Merupakan kecerdasan sebuah mesin mampu mengenali suatu objek. Computer vision merupakan proses otomatis yang mengintegrasikan sejumlah besar proses untuk persepsi visual, atau gambaran.
+
+Contoh : - Mesin Pengenal Wajah
+
+-	Robotika
+Merupakan Kercerdasan yang memiliki bentuk fisik dan dapat dikendalikan
+
+Contoh : Robot pembuat mobil. Robot Honda
