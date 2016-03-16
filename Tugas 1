@@ -1,6 +1,23 @@
 # Tugas1AI
+Nama  : Dody Chandra Samosir
+Nim   : 131114528
+Kelas : TP-B Pagi
 
-PETA MARELAN ( Pencegahan Dan Edukasi Melawan Narkoba ) Merupakan aplikasi berbasis website yang kegunaanya untuk membantu masyarakat tentang bahayanya narkoba dan pencegahan nya untuk terhindar dari bahaya Narkoba. Pada dasar nya Narkoba adalah senyawa-senyawa yang biasanya dipakai dalam dunia kesehatan untuk membius pasien saat hendak dioperasi , namun narkoba telah disalah gunakan atau disalahartikan untuk dosis yang tidak semestinya. Saat kini penyebaran dan penyalahgunaan narkoba sudah hampir tak bisa dicegah mengingat hampir seluruh penduduk dunia dapat terkena dampak dari peyalahgunaan norkoba , dan penyalahgunaan narkoba dan obat-obtan terlarang dikalangan generasi muda semakin mengkhawatirkan , Untuk metode penyelesaian masalah mengunakan metode Waterfall model ,Model ini melakukan pendekatan secara sistematis dan urut mulai dari level kebutuhan sistem lalu menuju ketahap analisis, desain, coding, testing dan maintenance.    
-Kata Kunci : web edukasi, melawan narkoba, pencegahan narkoba, penyalahgunaan narkoba. 
-1. Pendahuluan 
-Website telah berkembang dengan pesat mulai banyak  aplikasi 
+                        Computing Machinery And Intelligence ( Turing Opinion) 
+Setiap manusia memiliki pemikiran yang dapat dikendali kan atau di kerjakan dengan multitasking membuat manusia memiliki kercerdasan untuk melalukan proses A atau B secara bersamaan atau dalam proses pembelajaran manusia juga dapat belajar untuk terus berkembang dan dapat mengerjakan sesuatu dalam pemikiranya dan bertindak rasional.
+Tidak dengan mesin yang hanya memiliki 1 task dan tidak bisa belajar sesuatu, dan banyak orang berdebat apakah mesin bisa berpikir ?  Maka dari situ maka di buatlah Kecerdasan buat yang dimana Kecerdasan buatan Adalah : Menurut A. Simon [1987] : Kecerdasan buatan (artificial intelligence) merupakan kawasan penelitian, aplikasi dan instruksi yang terkait dengan pemrograman komputer untuk melakukan sesuatu hal yang -dalam pandangan manusia adalah kecerdasan dan bertindak seperti Manusia yang di implementasikan kedalam Komputer atau Teknologi yang akan di buat . 
+Dalam ( Critique of the New Problem ) Sebuah Masalah baru memiliki keuntungan dari menggambar garis yang cukup tajam antara fisik dan kapasitas intelektual manusia. Dalam melalukan sesuatu yang baru atau masalah baru yang akan di implementasikan ke dalam kecerdasan buatan.
+Dan Pada Learning Machines Menurut Lady Lovelace, yang menyatakan bahwa mesin hanya bisa melakukan apa yang kita katakan untuk dilakukan. Orang bisa mengatakan bahwa seorang pria bisa "menyuntikkan" ide ke dalam mesin, ide disuntikkan adalah sesuai dengan neutron memasuki tumpukan dari luar. Setiap neutron tersebut akan menyebabkan gangguan tertentu yang akhirnya mati pergi yang dimana di maksud kan kecerdasan dapat di buat atau di implementasikan kedalam mesin .
+Pertanyaan 1 
+1.	Apakah anda setuju atau tidak dengan pendapat Turing?
+Setuju Karena Mesin dan kecerdasan dapat singkronkan karena kecerdasan dapat di implementasikan kedalam sebuah mesin.
+
+2.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+Mungkin saja karena dengan semakin cerdas komputer akan bisa memiliki pemikiran seperti manusia.
+3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing ?
+Halangan adalah jenis komputer dan keterbatasan untuk menjadikan komputer seperti pemikiran manusia.
+Implementasi Kecerdasan Buatan
+-	Pengolahan bahasa Alami
+Kercerdasan dalam pengolahan bahasa natural antara bahasa manusia dapat di implementasikan ke dalam mesin.
+
+Contoh : - Aplikasi ChatBox
